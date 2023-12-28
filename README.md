@@ -3,6 +3,7 @@
 ## Getting Started
 1. Install dependencies
     ```zsh
+    # recommended to use virtual env
     pip install -r requirements.txt
     ```
 
