@@ -9,6 +9,7 @@
 2. Start FastAPI process
     ```zsh
     # Run the following command in the 'app' directory
+    cd CPoint5_Assignment
     uvicorn app.main:app --reload
     ```
     The FastAPI application will be accessible at [http://localhost:8000](http://localhost:8000).
