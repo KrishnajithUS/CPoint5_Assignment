@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 2. Start FastAPI process
 ```zsh
-cd tasks (go inside tasks directory)
+(Run below command in app direcory ie, app/)
 uvicorn app.main:app --reload
 ```
 3. Open local API docs & UI [http://localhost:8000/docs](http://localhost:8000/docs)
